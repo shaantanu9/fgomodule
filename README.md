@@ -14,3 +14,14 @@ func FunctionName (){
 }
 
 ```
+
+- Create the Git repository with same name and description
+- Push the code into the repository
+-Add the Github Tag
+
+```
+git tag "v1.0.0"
+git push --tags
+```
+
+Done Package is ready to be used by Others

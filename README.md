@@ -8,7 +8,9 @@
 ```Go
 package packageNameinSmall
 
-func FunctionName (){ // this function name should be in Capital letter as its the way go know and allows us to import export the function.
+func FunctionName (){
+// this function name should be in Capital letter
+// as its the way go know and allows us to import export the function.
 }
 
 ```
